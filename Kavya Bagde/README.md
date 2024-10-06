@@ -9,5 +9,4 @@ It is a task manager web page where you can add your tasks.
 3) JS
 
 # Visit webpage :
-
-<a src="https://kavyabagde.github.io/Tracker-To-Do-App-/"> 
+https://kavyabagde.github.io/Tracker-To-Do-App-/
